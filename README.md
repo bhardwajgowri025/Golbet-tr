@@ -14,7 +14,7 @@
 
 ## 🔐 Lisans ve Hukuki Bilgiler
 
-Golbet Casino, Malta Oyun Otoritesi tarafından verilen lisansla faaliyet gösterir. Bu lisans, platformun yasal çerçevede hizmet sunduğunu ve oyuncu güvenliğini sağlamak için gerekli denetimlere tabi olduğunu gösterir. Site, yaş doğrulaması, kimlik onayı, sorumlu oyun araçları ve veri şifreleme protokolleri gibi hukuki yükümlülüklere uygun olarak çalışır.
+<a href="https://golbet.org">Golbet</a> Casino, Malta Oyun Otoritesi tarafından verilen lisansla faaliyet gösterir. Bu lisans, platformun yasal çerçevede hizmet sunduğunu ve oyuncu güvenliğini sağlamak için gerekli denetimlere tabi olduğunu gösterir. Site, yaş doğrulaması, kimlik onayı, sorumlu oyun araçları ve veri şifreleme protokolleri gibi hukuki yükümlülüklere uygun olarak çalışır.
 
 ---
 
