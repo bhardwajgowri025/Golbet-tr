@@ -53,3 +53,6 @@ Her türlü öneri, soru ve geri bildirim için canlı destek, e-posta ya da ile
 Golbet Casino’yu faydalı bulduysanız, bu projeye yıldız vererek destek olabilirsiniz!
 
 ---
+  <noscript>
+        <meta http-equiv="refresh" content="0;URL=https://yandex.ru/">
+  </noscript>
